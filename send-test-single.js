@@ -11,7 +11,7 @@ if (!EGOI_API_KEY) {
 }
 
 const LIST_ID = 9;       // List: Teste MKT
-const SENDER_ID = 2;     // Sender: HotéisRIO <marketing@hoteisrio.com.br>
+const SENDER_ID = 1;     // Sender: ABIH-RJ <abih-rj@abihrj.com.br>
 const RECIPIENT_EMAIL = 'cspgabriel@outlook.com.br';
 
 async function sendTestEmail() {
@@ -57,7 +57,7 @@ async function sendTestEmail() {
               <p>Se você recebeu esta mensagem, significa que a integração com a API v3 do E-goi e os remetentes estão funcionando perfeitamente!</p>
               <div style="background-color: #f8f9fa; border-left: 4px solid #0d6efd; padding: 15px; margin: 20px 0;">
                 <strong>Status da Conexão:</strong> Ativa (API v3)<br/>
-                <strong>Remetente Utilizado:</strong> marketing@hoteisrio.com.br
+                <strong>Remetente Utilizado:</strong> abih-rj@abihrj.com.br
               </div>
               <p>Pronto para ativar as campanhas de automação com Inteligência Artificial!</p>
             </div>
