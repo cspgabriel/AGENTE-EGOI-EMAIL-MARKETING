@@ -12,7 +12,7 @@ if (!EGOI_API_KEY) {
 
 const LIST_ID = 9;       // List: Teste MKT
 const SENDER_ID = 1;     // Sender: ABIH-RJ <abih-rj@abihrj.com.br>
-const RECIPIENT_EMAIL = 'cspgabriel@outlook.com.br';
+const RECIPIENT_EMAIL = 'marketing@sindhoteisrj.com.br';
 
 async function sendTestEmail() {
   const headers = {
