@@ -12,7 +12,7 @@ if (!EGOI_API_KEY) {
 
 const LIST_ID = 9;       // List: Teste MKT
 const SENDER_ID = 2;     // Sender: HotéisRIO <marketing@hoteisrio.com.br>
-const RECIPIENT_EMAIL = 'marketing@hoteisrio.com.br';
+const RECIPIENT_EMAIL = 'cspgabriel@outlook.com.br';
 
 async function sendTestEmail() {
   const headers = {
