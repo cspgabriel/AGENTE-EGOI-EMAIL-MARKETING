@@ -10,9 +10,9 @@
     "send-sdk": "node egoi-sdk-client.js"
   },
   "dependencies": {
-    "@google/genai": "^0.1.1",
+    "@google/genai": "*",
     "axios": "^1.6.0",
     "dotenv": "^16.4.5",
-    "egoisdk": "^1.0.0-rc.3"
+    "egoisdk": "*"
   }
 }
